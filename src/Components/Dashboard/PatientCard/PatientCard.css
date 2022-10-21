@@ -1,0 +1,14 @@
+.patient-field{
+    margin-top: 50px;
+    padding: 30px ;
+    box-shadow: 0px 0px 10px 0px rgba(201, 199, 199, 0.7);
+}
+.fields, .patient-data{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.service-field{
+    margin-right: 57px;
+}

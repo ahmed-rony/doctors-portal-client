@@ -1,0 +1,19 @@
+.banner-bg{
+    background: url('../../assets/images/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+    margin-bottom: 60px;
+}
+.banner-bg::after{
+    content: '';
+    width: 400px;
+    height: 100%;
+    background: #3a4256;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}

@@ -1,0 +1,21 @@
+.info-primary{
+    background: #1cc7c1;
+}
+.info-dark{
+    background: #3a4256;
+}
+.info-icon{
+    font-size: 35px;
+    margin-right: 35px;
+}
+.info-container{
+    height: 100px;
+    align-items: center;
+    padding-left: 30px;
+    margin-top: 60px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

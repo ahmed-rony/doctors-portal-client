@@ -1,0 +1,10 @@
+.footer-area{
+    background-image: url(../../assets/images/footer.png);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.07);
+}
+
+.footer-area li{
+    padding-bottom: 10px;
+}
+
